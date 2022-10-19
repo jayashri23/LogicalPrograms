@@ -1,7 +1,6 @@
 package logicalprog;
 
 import java.util.Scanner;
-
 public class PerfectNumber {
     public static void main(String[] args) {
         System.out.println("Egitnter the number= ");
@@ -22,8 +21,7 @@ public class PerfectNumber {
         } else {
             System.out.println(num + ":Number is not Perfect");
         }
-
-      }
+    }
 
     }
 
